@@ -1,12 +1,11 @@
 # nodejs-kafka
 
-## NOTE: Please use kafka and java version carefully. I have installed kafka version 3, but was not working for me
+NOTE: Please use kafka and java version carefully. I have installed kafka version 3, but was not working for me
 
-## Requirements
+# Requirements
 
-# kafka_2.12-2.8.1
-
-# java v17.0.2
+1. kafka_2.12-2.8.1
+2. java v17.0.2
 
 # Steps to start the service
 
